@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Shubham Pandya (SpinX05)
 
-<!--
-**SpinX05/SpinX05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Cybersecurity Analyst | CEH Trainee | Offensive Security Enthusiast  
+💻 Learning through platforms like TryHackMe, HackerOne, and Bugcrowd  
+🔐 Practicing Web App Security | Network Recon | Wireless Hacking  
+📚 Currently Studying at Durham College (Cybersecurity)
 
-Here are some ideas to get you started:
+### 🛠 Tools & Languages
+Wireshark • Burp Suite • Nmap • Airodump-ng • Python • JavaScript • HTML/CSS • React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧪 Active Projects
+- **Web App Security Labs** – DVWA, Juice Shop, PortSwigger
+- **Recon Scripting in Python** – Building automation tools for scanning
+- **TryHackMe CTF Progress** – Working on Jr PenTester Path
+
+### 📬 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/shubhampandy)
